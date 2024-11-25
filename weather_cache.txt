@@ -1,0 +1,20 @@
+London – United Kingdom:10
+Paris – France:14
+Berlin – Germany:11
+Rome – Italy:8
+Madrid – Spain:14
+Amsterdam – Netherlands:11
+Brussels – Belgium:15
+Vienna – Austria:2
+Athens – Greece:7
+Lisbon – Portugal:13
+Stockholm – Sweden:11
+Copenhagen – Denmark:11
+Oslo – Norway:6
+Warsaw – Poland:6
+Helsinki – Finland:6
+Prague – Czech Republic:1
+Budapest – Hungary:2
+Bucharest – Romania:5
+Dublin – Ireland:5
+Zagreb – Croatia:12
